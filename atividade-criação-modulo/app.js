@@ -34,7 +34,7 @@ function iniciarAplicacao() {
             rl.close(); 
         } else {
             console.log('Opção inválida. Tente novamente.');
-            iniciarAplicacao(); 
+            iniciarAplicacao();
         }
     });
 }
